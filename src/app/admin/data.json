@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "header": "Cover page",
+    "type": "Cover",
+    "status": "In Process",
+    "target": "100%",
+    "limit": "10 pages",
+    "reviewer": "Eddie Lake"
+  },
+  {
+    "id": 2,
+    "header": "Table of contents",
+    "type": "TOC",
+    "status": "Done",
+    "target": "100%",
+    "limit": "2 pages",
+    "reviewer": "Sarah Connor"
+  },
+  {
+    "id": 3,
+    "header": "Executive summary",
+    "type": "Summary",
+    "status": "In Process",
+    "target": "80%",
+    "limit": "5 pages",
+    "reviewer": "John Doe"
+  },
+  {
+    "id": 4,
+    "header": "Technical specifications",
+    "type": "Technical",
+    "status": "In Review",
+    "target": "50%",
+    "limit": "25 pages",
+    "reviewer": "Jane Smith"
+  },
+  {
+    "id": 5,
+    "header": "Financial projections",
+    "type": "Finance",
+    "status": "Pending",
+    "target": "30%",
+    "limit": "12 pages",
+    "reviewer": "Alex Morgan"
+  },
+  {
+    "id": 6,
+    "header": "Risk assessment",
+    "type": "Legal",
+    "status": "In Process",
+    "target": "75%",
+    "limit": "8 pages",
+    "reviewer": "Michael Brown"
+  },
+  {
+    "id": 7,
+    "header": "Appendix & References",
+    "type": "Appendix",
+    "status": "Done",
+    "target": "100%",
+    "limit": "15 pages",
+    "reviewer": "Emily Davis"
+  }
+]
